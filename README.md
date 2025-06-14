@@ -1,5 +1,4 @@
 # AspireNex2
-This is the 2nd task
 <!DOCTYPE html>
 <html lang="en">
 <head>
